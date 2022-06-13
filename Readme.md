@@ -1,8 +1,5 @@
 # Personal Portfolio 🔥
 
-:star: Star me on GitHub — it helps!
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/coder-freak/coder-freak.github.io/commits/master)
 
 
 ### Website Preview
